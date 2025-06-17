@@ -56,6 +56,7 @@ Spring y PostgreSQL.
 - LinkedIn: para conectarse con la comunidad y mostrar el aprendizaje adquirido.
 - Chatgpt, DeepSeek para consultas y depuración de errores
 - Spring Initializr(https://start.spring.io/)
+- Sistema operativo Windows 11 pro 24H2
 
 ```
 
@@ -239,8 +240,8 @@ Spring y PostgreSQL.
 
 🏆Insignias ganadas
 
->> ![img](images/Badge_Conversor.png)    Tercera insignia ganada
+>> ![img](images/Tercera_Insignia.png)    Tercera insignia ganada
 
 ## 📜Certificado
 
-![img](images/Certificado.png)
+![img](images/certificado.png)
