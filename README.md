@@ -232,6 +232,8 @@ Spring y PostgreSQL.
 
 >> ![img](images/tabla3.png)
 
+>> ![img](images/Configuracion.png)
+
 ## 👩👨Autores del Proyecto
 
 >> ![img](images/Foto_Pequena_julio.png)    Programación Spring Boot 3.5.0, Java POO
