@@ -108,20 +108,21 @@ Spring y PostgreSQL.
 
 ✔️📦 [Jackson Databind](https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/2.19.0) » 2.19.0 Conversión de JSON a objetos Java (deserialización) y viceversa
 
-✔️📦 [Spring Boot Starter Data JPA](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-jpa/3.5.0) » 3.5.0
+✔️📦 [Spring Boot Starter Data JPA](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-jpa/3.5.0) » 3.5.0 facilita la conexión y manipulación de bases de datos relacionales
+      usando Java y anotaciones.
 
 ✔️📦 [Spring Data JPA](https://mvnrepository.com/artifact/org.springframework.data/spring-data-jpa/3.5.1) » 3.5.1 Acceso y persistencia en la base de datos relacional
 
-✔️📦 [PostgreSQL JDBC Driver](https://mvnrepository.com/artifact/org.postgresql/postgresql/42.7.7) » 42.7.7 
+✔️📦 [PostgreSQL JDBC Driver](https://mvnrepository.com/artifact/org.postgresql/postgresql/42.7.7) » 42.7.7 driver JDBC necesario para conectar la aplicación Java con una base de datos PostgreSQL.
 
-✔️📦 [Spring Boot Starter WebFlux](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-webflux/3.5.0) » 3.5.0
+✔️📦 [Spring Boot Starter WebFlux](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-webflux/3.5.0) » 3.5.0 para poder integrar y consumir el modelo de lenguaje Gemini (de Google) desde la aplicación Java.
 
 ✔️📦 Spring Boot [Spring Initializr](https://start.spring.io/) Framework para estructurar el proyecto
 
 ✔️📦 Gemini API / IA externa - [Google AI Studio](https://aistudio.google.com/welcome) Traducción automática de sinopsis
 
-✔️✅ Estructura de carpetas orientada a paquetes lógicos: modelos, servicios, utilidades, principal.
-      repository, exception
+✔️✅ Estructura de carpetas orientada a paquetes lógicos: modelos, servicios, utilidades, principal, repository,    
+      exception
 
 ## 💾 Base de datos (nombre: catalogo_libros)
 
