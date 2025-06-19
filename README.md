@@ -60,7 +60,7 @@ Spring y PostgreSQL.
 
 ```
 
-## 📗Funcionalidad del Conversor de Monedas
+## 📗Funcionalidad del Challenge Literalura - Catálogo de Libros y Consumo de API Gutendex
 
 ```sh
 
